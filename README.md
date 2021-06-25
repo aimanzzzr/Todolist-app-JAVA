@@ -1,5 +1,5 @@
-# TODOLIST APP USING JAVA
-This was an final project for subject CSC248 (Introduction to Data Structure).
+# TODOLIST APP 
+This was final project for subject CSC248 (Introduction to Data Structure for Diploma in computer and mathematical science at UiTM) using Data Structure.
 
 # REQUIREMENTS
   - Java IDE 
